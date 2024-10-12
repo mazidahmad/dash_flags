@@ -41,6 +41,7 @@ enum Country {
 
   /// American Samoa
   c_as,
+  as,
 
   /// Austria
   at,
