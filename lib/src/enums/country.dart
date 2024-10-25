@@ -341,7 +341,7 @@ enum Country {
   im,
 
   /// India
-  c_in,
+  in,
 
   /// British Indian Ocean Territory
   io,
